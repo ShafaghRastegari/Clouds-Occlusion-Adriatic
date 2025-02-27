@@ -1,2 +1,2 @@
 # Clouds-Occlusion-Adriatic
-Sea Surface Temperature Reconstruction under Cloud Occlusion
+Satellite instruments capture sea surface temperature (SST) by measuring the infrared radiation emitted from the ocean surface. In many cases, clouds block this radiation, resulting in gaps in the data. We're building a deep learning model to predict SST in occluded regions using advanced network architectures. Root Mean Square Error (RMSE) is used to measure performance.
